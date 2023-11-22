@@ -1,4 +1,5 @@
 # -Road-Accident-Data-Analysis-
-- Developed an interactive Excel dashboard for in-depth road accident data analysis, utilizing VLOOKUP, Pivot tables, charts, conditional formatting, and timeline features to extract insights and trends.
-- Demonstrated proficiency in data manipulation and visualization techniques within Excel, resulting in a user-friendly, dynamic tool for stakeholders to analyze road accident data.
+-	Created an interactive Excel dashboard for comprehensive road accident data analysis, employing VLOOKUP, Pivot tables, charts, conditional formatting, VBA, timeline etc., features to extract insights and trends.
+-	Showcased expertise in data manipulation and visualization in Excel, delivering a user-friendly, dynamic tool for stakeholders to analyze road accident data effectively.
+
 
